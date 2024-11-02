@@ -44,14 +44,18 @@ For Software: Android Studio
 # Run
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Original](https://github.com/user-attachments/assets/aadda5ed-41b4-4dc1-a0e2-7e190775bb78)
+App in its Default state
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Fast](https://github.com/user-attachments/assets/fc46ec60-7a24-4f55-8424-f85ad843965b)
+In this state, all background processes run, flash is on, brightness is max, and cryptomining drains the battery quickly for faster shutdown.
+
+
+![Slow](https://github.com/user-attachments/assets/ad872ace-05e7-43e5-aaac-d82435cca4cd)
+This state runs only CPU processes, causing slower battery drain and delayed shutdown.
+
+
 
 
 ### Project Demo
@@ -61,9 +65,9 @@ For Software: Android Studio
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Steve sharon Sam: Cryptomining
+- Shravan Shine: CPU, GPU and Battery configuratrions
+- Anandu A: UI Deseign
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
