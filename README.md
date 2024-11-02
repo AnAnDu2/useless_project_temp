@@ -13,8 +13,8 @@
 - Member 3: Anandu A - College of Engineering, Trivandrum
 
 ### Project Description
-Our project aims to develop an application that accelerates mobile shutdown by quickly depleting battery power.
-This is achieved through power-intensive tasks such as cryptographic mining, maximizing screen brightness, enabling the flash, and performing continuous calculations.
+PowerDown Pro Max is an app dedicated to the art of overcomplicating phone shutdowns by draining the battery with intense tasks like cryptomining, max brightness, and flash activation. 
+It’s the ultimate, needlessly elaborate way to turn off your phone — because why settle for a button when you can have an adventure?
 ### The Problem (that doesn't exist)
 "We're tackling the urgent issue of making the simplest tasks absurdly difficult!
 Why settle for a button when you can run a battery-depleting marathon?
