@@ -45,14 +45,17 @@ For Software: Android Studio
 
 # Screenshots (Add at least 3)
 ![Original](https://github.com/user-attachments/assets/aadda5ed-41b4-4dc1-a0e2-7e190775bb78)
+
 App in its Default state
 
 
 ![Fast](https://github.com/user-attachments/assets/fc46ec60-7a24-4f55-8424-f85ad843965b)
+
 In this state, all background processes run, flash is on, brightness is max, and cryptomining drains the battery quickly for faster shutdown.
 
 
 ![Slow](https://github.com/user-attachments/assets/ad872ace-05e7-43e5-aaac-d82435cca4cd)
+
 This state runs only CPU processes, causing slower battery drain and delayed shutdown.
 
 
