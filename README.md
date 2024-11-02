@@ -4,7 +4,7 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CtrlC CtrlV
 
 
 ### Team Members
@@ -13,13 +13,13 @@
 - Member 3: Anandu A - College of Engineering, Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
-
+Our project aims to develop an application that accelerates mobile shutdown by quickly depleting battery power.
+This is achieved through power-intensive tasks such as cryptographic mining, maximizing screen brightness, enabling the flash, and performing continuous calculations.
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+At its core, this project tackles the admittedly unconventional problem of forcibly shutting down a mobile device by draining its battery as quickly as possible.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We are increasing the time of switching off our phone which can be done instantly by power off but we are doing it by completely wasting our time and effort.
 
 ## Technical Details
 ### Technologies/Components Used
