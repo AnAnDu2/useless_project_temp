@@ -35,10 +35,6 @@ For Software:
   Libraries used -  AndroidX libraries, Gradle Build Tool
 - Tools used - Gradle Wrapper, Android studio
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software: Android Studio
