@@ -8,9 +8,9 @@
 
 
 ### Team Members
-- Team Lead: [Steve] - [College of Engineering, Trivandrum]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Steve Sharon Sam - College of Engineering, Trivandrum
+- Member 2: Shravan Shine - College of Engineering, Trivandrum
+- Member 3: Anandu A - College of Engineering, Trivandrum
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -24,10 +24,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Language used - Kotlin
+- Frameworks used  - Android SDK, AndroidX
+  Libraries used -  AndroidX libraries, Gradle Build Tool
+- Tools used - Gradle Wrapper, Android studio
 
 For Hardware:
 - [List main components]
