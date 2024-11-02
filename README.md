@@ -16,11 +16,17 @@
 Our project aims to develop an application that accelerates mobile shutdown by quickly depleting battery power.
 This is achieved through power-intensive tasks such as cryptographic mining, maximizing screen brightness, enabling the flash, and performing continuous calculations.
 ### The Problem (that doesn't exist)
-At its core, this project tackles the admittedly unconventional problem of forcibly shutting down a mobile device by draining its battery as quickly as possible.
+"We're tackling the urgent issue of making the simplest tasks absurdly difficult!
+Why settle for a button when you can run a battery-depleting marathon?
+In a world where convenience rules, we’re taking a stand for inefficiency!
 
 ### The Solution (that nobody asked for)
-We are increasing the time of switching off our phone which can be done instantly by power off but we are doing it by completely wasting our time and effort.
 
+Our solution maximizes inconvenience by transforming a simple shutdown into a dramatic battery-draining experience. 
+Instead of a quick button press, users get to watch their phone struggle as power-intensive tasks slowly sap the battery, building patience along the way.
+This approach even discourages overuse—after going through the shutdown ordeal once, users might think twice before powering it back on.
+Plus, it’s perfect for pranks, letting you show friends how quickly their "long-lasting" battery can vanish.
+In short, we’ve turned the shutdown process into an unforgettable adventure!
 ## Technical Details
 ### Technologies/Components Used
 For Software:
