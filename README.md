@@ -43,7 +43,7 @@ For Software: Android Studio
 
 # Run
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Original](https://github.com/user-attachments/assets/aadda5ed-41b4-4dc1-a0e2-7e190775bb78)
 
 App in its Default state
@@ -70,7 +70,7 @@ This state runs only CPU processes, causing slower battery drain and delayed shu
 ## Team Contributions
 - Steve sharon Sam: Cryptomining
 - Shravan Shine: CPU, GPU and Battery configuratrions
-- Anandu A: UI Deseign
+- Anandu A: UI Design
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
