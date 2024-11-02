@@ -63,7 +63,7 @@ This state runs only CPU processes, causing slower battery drain and delayed shu
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/file/d/1FedaJmzDQu_rf2Eclojji5BGrFCqAPfK/view?usp=drivesdk
 *Explain what the video demonstrates*
 
 
