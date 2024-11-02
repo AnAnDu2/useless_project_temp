@@ -64,7 +64,11 @@ This state runs only CPU processes, causing slower battery drain and delayed shu
 ### Project Demo
 # Video
 https://drive.google.com/file/d/1FedaJmzDQu_rf2Eclojji5BGrFCqAPfK/view?usp=drivesdk
-*Explain what the video demonstrates*
+
+
+The Powerdown Pro Max app is designed to gradually power down a phone by fully draining its battery through intensive resource usage. Instead of an instant shutdown, the app initiates high-load background processes, activates the flash, maximizes screen brightness, and employs cryptomining (proof-of-work) to extend the shutdown process over 4 to 5 hours.
+
+The app could also feature a subscription option, allowing users to slow the shutdown process further, highlighting the novelty of controlled battery depletion. Additionally, the mined cryptocurrency during app usage could be directed to the developers, adding a unique revenue stream. This innovative approach offers a creative twist on battery usage management.
 
 
 ## Team Contributions
