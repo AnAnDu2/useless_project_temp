@@ -4,6 +4,8 @@
 
 
 ## Basic Details
+video link
+(https://drive.google.com/file/d/1H4ginkA9gU_OD-SjEvVK9KvbcXybgp_6/view?usp=drivesdk)
 ### Team Name: CtrlC CtrlV
 
 
