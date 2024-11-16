@@ -73,7 +73,7 @@ The app could also feature a subscription option, allowing users to slow the shu
 
 ## Team Contributions
 - Steve sharon Sam: Cryptomining
-- Shravan Shine: CPU, GPU and Battery configuratrions
+- Shravan Shine: CPU, GPU and Battery configurations
 - Anandu A: UI Design
 
 ---
